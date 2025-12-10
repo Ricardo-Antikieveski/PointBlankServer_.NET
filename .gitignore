@@ -1,0 +1,4 @@
+echo "bin/" >> .gitignore
+echo "obj/" >> .gitignore
+echo ".idea/" >> .gitignore
+echo ".vs/" >> .gitignore
