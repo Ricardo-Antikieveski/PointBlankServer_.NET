@@ -1,0 +1,42 @@
+# Build
+bin/
+obj/
+out/
+[Bb]uild/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# JetBrains (Rider / CLion)
+.idea/
+*.iml
+
+# OS garbage
+Thumbs.db
+.DS_Store
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+
+# .NET generated files
+TestResults/
+*.dll
+*.exe
+
+# Cache
+*.cache
+*.tmp
+*.bak
+
+# Publish
+publish/
+
